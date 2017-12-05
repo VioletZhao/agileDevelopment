@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/agile-development.iml" filepath="$PROJECT_DIR$/agile-development.iml" />
+      <module fileurl="file://E:\agiledevelopment\agiledevelopment.iml" filepath="E:\agiledevelopment\agiledevelopment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design/design.iml" filepath="$PROJECT_DIR$/design/design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/principle/principle.iml" filepath="$PROJECT_DIR$/principle/principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/salary/salary.iml" filepath="$PROJECT_DIR$/salary/salary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/principle/salaryPayment.iml" filepath="$PROJECT_DIR$/principle/salaryPayment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>

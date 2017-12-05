@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="principle:war">
+    <output-path>$PROJECT_DIR$/../agiledevelopment/principle/target</output-path>
+    <root id="archive" name="principle.war">
+      <element id="artifact" artifact-name="principle:war exploded" />
+    </root>
+  </artifact>
+</component>
